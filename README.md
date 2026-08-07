@@ -29,8 +29,6 @@
 
 ## 👨‍💻 About Me
 
-Saya adalah seorang mahasiswa Teknologi Informasi sekaligus **Web Developer & UI/UX Designer** yang berdomisili di Indonesia. Saya berfokus pada perancangan antarmuka visual yang modern sekaligus membangun arsitektur kode yang bersih.
-
 *   🌍 Kunjungi website portofolio saya: **[susilofajar](https://susilofajar.vercel.app)**
 *   🔭 Saat ini sedang membangun dan merancang aplikasi web modern.
 *   📫 Hubungi saya melalui: [Instagram](https://instagram.com/seren.dipity_1) atau [WhatsApp](https://wa.me/62895355773030).
