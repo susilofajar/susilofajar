@@ -1,17 +1,7 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:00FFCC,100:0A0E14&height=150&section=header&text=SUSILO.EXE&fontSize=52&fontColor=0A0E14&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:00FFCC,100:0A0E14&height=190&section=header&text=SUSILO.EXE&fontSize=48&fontColor=0A0E14&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20&descAlignY=58&descSize=18&descColor=0A0E14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=40&lines=>+INITIATING+SEQUENCE...;>+ROOT%40SUSILO%3A~%24+./boot.sh;>+STATUS%3A+ONLINE_%5B%E2%9C%93%5D;>+WEB+DEVELOPER+%7C+UI%2FUX+DESIGNER" alt="typing_svg" />
-
-<br/>
-
-<a href="https://susilofajar.vercel.app" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=susilofajar&label=SIGNAL+RECEIVED&color=0a0e14&style=for-the-badge&labelColor=00ffcc" alt="profile views"/>
-</a>
-
-<br/>
 <br/>
 
 # ⌬ VISUAL.MAP / PORTRAIT.SIGNAL ⌬
@@ -19,8 +9,8 @@
 <table>
 <tr>
 <td align="center">
-<br/>
 
+```
 ◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
 ```
 
