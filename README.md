@@ -61,14 +61,6 @@ Saya adalah seorang mahasiswa Teknologi Informasi sekaligus **Web Developer & UI
 
 ---
 
-## 🏆 Trophies & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=susilofajar&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies"/>
-</div>
-
-<br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/susilofajar/susilofajar/output/snake-dark.svg" />
