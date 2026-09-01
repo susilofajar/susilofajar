@@ -54,7 +54,7 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=susilofajar&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0A0E14&title_color=00FFCC&text_color=C3F7E8" width="48%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susilofajar&theme=react-dark&bg_color=0A0E14&color=00FFCC&line=00FFCC&point=C3F7E8&area=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=susilofajar220-8770s-projects&theme=react-dark&bg_color=0A0E14&color=00FFCC&line=00FFCC&point=C3F7E8&area=true&hide_border=true" width="48%"/>
 </div>
 
 ---
