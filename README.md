@@ -11,15 +11,15 @@ alt="Susilo Fajar"/>
 alt="Typing Animation"/>
 
 <a href="https://susilofajar.my.id">
-<img src="https://img.shields.io/badge/Portfolio-05070A?style=flat-square&logo=globe&logoColor=00FFCC"/>
+  <img src="https://img.shields.io/badge/Website-05070A?style=flat-square&logo=googlechrome&logoColor=00FFCC&logoWidth=14" />
 </a>
-&nbsp;
+
 <a href="https://linkedin.com/in/susilo-mawahibul-fajar">
-<img src="https://img.shields.io/badge/LinkedIn-05070A?style=flat-square&logo=linkedin&logoColor=00FFCC"/>
+  <img src="https://img.shields.io/badge/LinkedIn-05070A?style=flat-square&logo=linkedin&logoColor=00FFCC&logoWidth=14" />
 </a>
-&nbsp;
+
 <a href="https://instagram.com/seren.dipity_1">
-<img src="https://img.shields.io/badge/Instagram-05070A?style=flat-square&logo=instagram&logoColor=00FFCC"/>
+  <img src="https://img.shields.io/badge/Instagram-05070A?style=flat-square&logo=instagram&logoColor=00FFCC&logoWidth=14" />
 </a>
 
 <br>
