@@ -10,8 +10,8 @@ alt="Susilo Fajar"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=35&lines=building+things+for+the+web.;code+%C3%97+design+%C3%97+curiosity.;turning+ideas+into+digital+experiences."
 alt="Typing Animation"/>
 
-<a href="https://susilofajar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-05070A?style=flat-square&logo=vercel&logoColor=00FFCC"/>
+<a href="https://susilofajar.my.id">
+<img src="https://img.shields.io/badge/Portfolio-05070A?style=flat-square&logo=globe&logoColor=00FFCC"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/susilo-mawahibul-fajar">
