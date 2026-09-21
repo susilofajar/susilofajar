@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:00FFCC,100:05070A&height=175&section=header&text=SUSILO%20FAJAR&fontSize=40&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=WEB%20DEVELOPER%20%2F%2F%20UI%2FUX%20DESIGNER&descAlignY=63&descSize=14&descColor=00FFCC" width="100%"/>
 
-<img src="https://susilofajar.my.id/assets/images/profile.jpg"
+<img src="https://susilofajar.my.id/assets/images/profile.png"
 width="150"
 height="150"
 alt="Susilo Fajar"/>
